@@ -1,0 +1,15 @@
+# AI assistant tool directories
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.log
+*.tmp
